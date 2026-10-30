@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-ph-buffer-recipe-calculator."""
 
 from __future__ import annotations

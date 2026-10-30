@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio ph-buffer-recipe-calculator."""
 
 from .client import PepkioClient
